@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/drawable/profile_layout.xml" value="0.3045" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/drawable/round_layout.xml" value="0.261" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_list_item.xml" value="0.18041898247114152" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_logo.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_play.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_recomm_item.xml" value="0.67" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/activity_signup.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/bottom_navi.xml" value="0.3515625" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_home.xml" value="0.33" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_homeback.xml" value="0.25" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_homeback2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_list.xml" value="0.16" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_play.xml" value="0.33" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/layout/frag_search.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Ho/Desktop/AndroidStudy/capstone/WALKHOLIC/app/src/main/res/menu/bottom_navi.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/drawable/accent.xml" value="0.3425" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/drawable/google_btn.xml" value="0.3525" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/drawable/register.xml" value="0.107" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/font/fontstyle.xml" value="0.17037037037037037" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/layout/activity_logo.xml" value="0.1875" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/kjh71/AndroidStudioProjects/WALKHOLIC/app/src/main/res/layout/activity_signup.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
